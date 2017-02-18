@@ -1,0 +1,132 @@
+body {
+
+	margin :0px;
+}
+
+.side1{
+/*border:2px solid red;*/
+height: 125vh;
+width: 35%;
+margin-left: 80px;
+margin-top: 0px;
+display: inline-block;
+
+}
+
+.name img{
+margin-left: 50px;
+border:none;
+
+}
+.name{
+    margin-left: 35px;
+	/*border:2px solid green;*/
+	height: 30vh;
+	width: 70%;
+}
+
+.profile{
+ margin-left: 35px;
+	/*border:2px solid blue;*/
+	height: 30vh;
+	width: 70%;
+	position: relative;
+
+}
+
+.pimage{
+	margin-left: 50px;
+}
+
+.ptext{
+
+	font-size: xx-small;
+	margin-left: 50px;
+}
+.contact{
+ margin-left: 35px;
+	/*border:2px solid yellow;*/
+	height: 30vh;
+	width: 70%;
+}
+.cimage{
+
+	margin-left: 50px;
+}
+.menu{
+	font-size: x-small;
+    margin-left: 50px;
+    color: rgb(0,108,180);
+    display: inline-block;
+}
+.list{
+display: inline-block;
+margin-left: 30px;
+font-size: x-small;
+
+}
+.skill {
+
+	 margin-left: 35px;
+	/*border:2px solid green;*/
+	height: 30vh;
+	width: 70%;
+}
+
+.skill img{
+
+	margin-left: 30px;
+}
+
+.side2{
+
+	/*border:2px solid red;*/
+	height: 125vh;
+	width: 25%;
+	display: inline-block;
+	position: absolute;
+
+}
+.education{
+
+	/*border:2px solid green;*/
+	height: 52vh;
+	width: 70%;
+}
+.education img{
+position: relative;
+
+}
+.m{
+font-size: xx-small;
+font-family: Arial;
+
+margin-bottom: 10px;
+
+}
+.m ul{
+
+	margin-bottom: 10px;
+}
+
+.experience{
+
+	/*border:2px solid red;*/
+	height:38vh;
+	width: 70%;
+}
+
+.n{
+
+	font-size: xx-small;
+	font-family: Arial;
+}
+
+.soft{
+
+/*border:2px solid green;*/
+width: 70%;
+height: 30vh;
+margin-bottom: 10px;
+
+}
